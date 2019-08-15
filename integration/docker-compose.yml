@@ -10,3 +10,4 @@ services:
     build: .
     environment:
       - TEAMCITY_PROJECT_NAME
+      
